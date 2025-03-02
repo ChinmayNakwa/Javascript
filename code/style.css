@@ -1,0 +1,17 @@
+body {
+    align-items: center;
+    font-size: 2em;
+}
+
+#mySubmit {
+    font-size: 1em;
+    border-radius: 10px;
+    border: none;
+    background-color: slategray;
+    padding: 10px;
+}
+
+#mySubmit:hover {
+    background-color: rgb(75, 85, 95);
+    cursor: pointer;
+}
